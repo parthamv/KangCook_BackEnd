@@ -22,10 +22,9 @@ This is the frontend component of the Food Recipe web application, built using R
 
 ## Technology Stack
 
-- **Frontend**: React.js, Bootstrap
-- **API Client**: Axios
-- **Routing**: React Router
-- **State Management**: React Hooks (`useState`, `useEffect`)
+- **Backend Framework**: Django
+- **REST API Framework**: Django REST Framework
+- **Database**: SQLite (for development; you can replace with PostgreSQL, MySQL, etc., in production)
 
 ## Installation
 
